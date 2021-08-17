@@ -1,3 +1,5 @@
+# Very simple port scanner that uses the Python socket module.
+
 import socket
 import termcolor
 
